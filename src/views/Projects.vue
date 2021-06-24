@@ -53,9 +53,9 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Groupomania</h2>
-            <a href="https://krissdel.github.io/groupomania/" target="_blank">
+            <a>
               <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-globe"></i></span
+                <i class="fas fa-times"></i></span
             ></a>
           </div>
 
@@ -76,9 +76,9 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">So Pekocko</h2>
-            <a href="" target="_blank">
+            <a>
               <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-globe"></i></span
+                <i class="fas fa-times"></i></span
             ></a>
           </div>
           <div class="project-image">
@@ -99,11 +99,9 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Orinoco</h2>
-            <a
-              href="https://github.com/krissdel/orinoco-website/new/master?readme=1"
-            >
+            <a>
               <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-globe"></i></span
+               <i class="fas fa-times"></i></span
             ></a>
           </div>
 
