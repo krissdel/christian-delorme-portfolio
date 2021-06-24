@@ -53,10 +53,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Groupomania</h2>
-            <a>
+            
               <span style="font-size: 1.5em; color: black">
                 <i class="fas fa-times"></i></span
-            ></a>
+            >
           </div>
 
           <div class="project-image">
@@ -80,10 +80,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">So Pekocko</h2>
-            <a>
+            
               <span style="font-size: 1.5em; color: black">
                 <i class="fas fa-times"></i></span
-            ></a>
+            >
           </div>
           <div class="project-image">
             <img src="../assets/image/so_pekocko2.png" alt="image so_pekocko" />
@@ -103,10 +103,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Orinoco</h2>
-            <a>
+            
               <span style="font-size: 1.5em; color: black">
                 <i class="fas fa-times"></i></span
-            ></a>
+            >
           </div>
 
           <div class="project-image">
@@ -212,6 +212,15 @@ a {
   text-decoration: none;
 }
 a :hover {
+  color: #e20034;
+  -webkit-animation-name: rubberBand;
+  animation-name: rubberBand;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.fa-times :hover {
   color: #e20034;
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
