@@ -16,137 +16,174 @@
     </div>
 
     <div class="grid-container">
+      <!-- -----[rextense]----- -->
       <div class="project-listing">
         <article>
-          <h2 class="project-title">Rextense</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/Rextense"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
-            <a href="https://rextense.com/" target="_blank"
-              ><img src="../assets/image/rextense.png" alt="image rextense " />
-            </a>
-          </div>
-        </article>
-      </div>
-
-      <div class="project-listing">
-        <article>
-          <h2 class="project-title">Groupomania</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/groupomania"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
-            <a href="https://krissdel.github.io/groupomania/" target="_blank">
-              <img
-                src="../assets/image/groupomania_projet2.png"
-                alt="image groupomania"
-              />
-            </a>
-          </div>
-        </article>
-      </div>
-
-      <div class="project-listing">
-        <article>
-          <h2 class="project-title">So Pekocko</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/projet-6"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
+          <div class="link">
             <a
-              href="https://github.com/krissdel/projet-6/edit/main/README.md"
+              class="project-link"
+              href="https://github.com/krissdel/Rextense"
               target="_blank"
             >
-              <img
-                src="../assets/image/so_pekocko2.png"
-                alt="image so_pekocko"
-              />
-            </a>
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">Rextense</h2>
+            <a href="https://rextense.com/" target="_blank"
+              ><span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+          <div class="project-image">
+            <img src="../assets/image/rextense.png" alt="image rextense " />
           </div>
         </article>
       </div>
 
+      <!-- -----[groupomania]----- -->
       <div class="project-listing">
         <article>
-          <h2 class="project-title">Orinoco</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/orinoco-website"
-            target="_blank"
-            >Lien Github</a
-          >
+          <div class="link">
+            <a
+              class="project-link"
+              href="https://github.com/krissdel/groupomania"
+              target="_blank"
+            >
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">Groupomania</h2>
+            <a href="https://krissdel.github.io/groupomania/" target="_blank">
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+
           <div class="project-image">
+            <img
+              src="../assets/image/groupomania_projet2.png"
+              alt="image groupomania"
+            />
+          </div>
+        </article>
+      </div>
+      <!-- -----[so Pekocko]----- -->
+      <div class="project-listing">
+        <article>
+          <div class="link">
+            <a class="project-link" href="" target="_blank">
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">So Pekocko</h2>
+            <a href="" target="_blank">
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+          <div class="project-image">
+            <img src="../assets/image/so_pekocko2.png" alt="image so_pekocko" />
+          </div>
+        </article>
+      </div>
+      <!-- -----[Orinoco]----- -->
+      <div class="project-listing">
+        <article>
+          <div class="link">
+            <a
+              class="project-link"
+              href="https://github.com/krissdel/orinoco-website"
+              target="_blank"
+            >
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">Orinoco</h2>
             <a
               href="https://github.com/krissdel/orinoco-website/new/master?readme=1"
+            >
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+
+          <div class="project-image">
+            <img src="../assets/image/orinoco2.png" alt="image orinoco" />
+          </div>
+        </article>
+      </div>
+      <!-- -----[La Chouette]----- -->
+
+      <div class="project-listing">
+        <article>
+          <div class="link">
+            <a
+              class="project-link"
+              href="https://github.com/krissdel/chouetteafter"
               target="_blank"
             >
-              <img src="../assets/image/orinoco2.png" alt="image orinoco" />
-            </a>
-          </div>
-        </article>
-      </div>
-
-      <div class="project-listing">
-        <article>
-          <h2 class="project-title">La Chouette</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/chouetteafter"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">La Chouette</h2>
             <a href="https://krissdel.github.io/chouetteafter/" target="_blank">
-              <img
-                src="../assets/image/chouette_agence2.png"
-                alt="image la chouette agence"
-              />
-            </a>
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+          <div class="project-image">
+            <img
+              src="../assets/image/chouette_agence2.png"
+              alt="image la chouette agence"
+            />
           </div>
         </article>
       </div>
+      <!-- -----[Ohmyfood]----- -->
 
       <div class="project-listing">
         <article>
-          <h2 class="project-title">Ohmyfood</h2>
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/ohmyfood"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
+          <div class="link">
+            <a
+              class="project-link"
+              href="https://github.com/krissdel/ohmyfood"
+              target="_blank"
+            >
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">Ohmyfood</h2>
             <a href="https://krissdel.github.io/ohmyfood/" target="_blank">
-              <img src="../assets/image/ohmyfood2.png" alt="image ohmyfood" />
-            </a>
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+          <div class="project-image">
+            <img src="../assets/image/ohmyfood2.png" alt="image ohmyfood" />
           </div>
         </article>
       </div>
+      <!-- -----[CV]----- -->
 
       <div class="project-listing">
         <article>
-          <h2 class="project-title">CV</h2>
-
-          <a
-            class="project-link"
-            href="https://github.com/krissdel/CV4"
-            target="_blank"
-            >Lien Github</a
-          >
-          <div class="project-image">
+          <div class="link">
+            <a
+              class="project-link"
+              href="https://github.com/krissdel/CV4"
+              target="_blank"
+            >
+              <span style="font-size: 1.5em; color: black">
+                <i class="fab fa-github"></i> </span
+            ></a>
+            <h2 class="project-title">CV</h2>
             <a href="https://krissdel.github.io/CV4/" target="_blank">
-              <img src="../assets/image/cv2.png" alt="image projet CV" />
-            </a>
+              <span style="font-size: 1.5em; color: black">
+                <i class="fas fa-globe"></i></span
+            ></a>
+          </div>
+          <div class="project-image">
+            <img src="../assets/image/cv2.png" alt="image projet CV" />
           </div>
         </article>
       </div>
@@ -164,6 +201,23 @@ export default {
 
 
 <style scoped>
+.link {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  color: rgb(48, 62, 80);
+  text-decoration: none;
+}
+a :hover {
+  color: #e20034;
+  -webkit-animation-name: rubberBand;
+  animation-name: rubberBand;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
 .wrapper {
   max-width: 900px;
   margin: auto auto;
@@ -206,7 +260,55 @@ img {
   height: auto;
 }
 /* =====[Animations]=============================== */
+/* @keyframes rotateOut
+{
+0%
+ {
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+ }
+100%
+ {
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  -webkit-transform: rotate3d(0, 0, 1, 200deg);
+  transform: rotate3d(0, 0, 1, 200deg);
+  opacity: 0;
+ }
+} */
 
+@keyframes rubberBand {
+  0% {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+  30% {
+    -webkit-transform: scale3d(1.25, 0.75, 1);
+    transform: scale3d(1.25, 0.75, 1);
+  }
+  40% {
+    -webkit-transform: scale3d(0.75, 1.25, 1);
+    transform: scale3d(0.75, 1.25, 1);
+  }
+  50% {
+    -webkit-transform: scale3d(1.15, 0.85, 1);
+    transform: scale3d(1.15, 0.85, 1);
+  }
+  65% {
+    -webkit-transform: scale3d(0.95, 1.05, 1);
+    transform: scale3d(0.95, 1.05, 1);
+  }
+  75% {
+    -webkit-transform: scale3d(1.05, 0.95, 1);
+    transform: scale3d(1.05, 0.95, 1);
+  }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+/* -------------------------------------------- */
 @keyframes fade-in-up {
   0% {
     transform: translatey(100%);
