@@ -71,7 +71,7 @@
       <div class="project-listing">
         <article>
           <div class="link">
-            <a class="project-link" href="" target="_blank">
+            <a class="project-link" href="https://github.com/krissdel/projet-6" target="_blank">
               <span style="font-size: 1.5em; color: black">
                 <i class="fab fa-github"></i> </span
             ></a>
