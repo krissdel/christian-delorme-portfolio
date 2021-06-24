@@ -271,23 +271,6 @@ img {
   height: auto;
 }
 /* =====[Animations]=============================== */
-/* @keyframes rotateOut
-{
-0%
- {
-  -webkit-transform-origin: center;
-  transform-origin: center;
-  opacity: 1;
- }
-100%
- {
-  -webkit-transform-origin: center;
-  transform-origin: center;
-  -webkit-transform: rotate3d(0, 0, 1, 200deg);
-  transform: rotate3d(0, 0, 1, 200deg);
-  opacity: 0;
- }
-} */
 
 @keyframes rubberBand {
   0% {
