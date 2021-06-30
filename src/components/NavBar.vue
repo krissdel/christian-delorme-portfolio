@@ -6,7 +6,7 @@
       </router-link>
       <!-- <b>Home</b> -->
       <router-link to="/">
-        <span id="icon" @click="colorOn" style="font-size: 1.5em; color: white">
+        <span id="icon" style="font-size: 1.5em; color: white">
           <i class="fas fa-home"></i>
         </span>
       </router-link>
@@ -48,14 +48,6 @@
 <script>
 export default {
   name: "NavBar",
-  data() {
-    return {};
-  },
-  methods: {
-    colorOn() {
-
-    },
-  },
 };
 </script>
 
