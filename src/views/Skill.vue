@@ -91,6 +91,14 @@ export default {
           "value": 15
         },
         {
+          "name": "vuex",
+          "value": 15
+        },
+        {
+          "name": "API REST",
+          "value": 15
+        },
+        {
           "name": "BEM",
           "value": 9
         },
