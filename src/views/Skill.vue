@@ -91,6 +91,10 @@ export default {
           "value": 15
         },
         {
+          "name": "axios",
+          "value": 10
+        },
+        {
           "name": "vuex",
           "value": 15
         },
