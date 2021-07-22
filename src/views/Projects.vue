@@ -53,10 +53,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Groupomania</h2>
-            
-              <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-times"></i></span
-            >
+
+            <span style="font-size: 1.5em; color: black">
+              <i class="fas fa-times"></i
+            ></span>
           </div>
 
           <div class="project-image">
@@ -80,10 +80,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">So Pekocko</h2>
-            
-              <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-times"></i></span
-            >
+
+            <span style="font-size: 1.5em; color: black">
+              <i class="fas fa-times"></i
+            ></span>
           </div>
           <div class="project-image">
             <img src="../assets/image/so_pekocko2.png" alt="image so_pekocko" />
@@ -103,10 +103,10 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">Orinoco</h2>
-            
-              <span style="font-size: 1.5em; color: black">
-                <i class="fas fa-times"></i></span
-            >
+
+            <span style="font-size: 1.5em; color: black">
+              <i class="fas fa-times"></i
+            ></span>
           </div>
 
           <div class="project-image">
@@ -179,7 +179,7 @@
                 <i class="fab fa-github"></i> </span
             ></a>
             <h2 class="project-title">CV</h2>
-            <a href="https://krissdel.github.io/CV4/" target="_blank">
+            <a href="https://krissdel.github.io/CV-O.C/" target="_blank">
               <span style="font-size: 1.5em; color: black">
                 <i class="fas fa-globe"></i></span
             ></a>
@@ -200,7 +200,6 @@ export default {
   components: {},
 };
 </script>
-
 
 <style scoped>
 .link {
