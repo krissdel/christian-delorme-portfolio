@@ -2,7 +2,7 @@
   <div id="nav_bar">
     <nav class="nav_bar_icons">
       <router-link to="/homeLogo">
-        <img src="../assets/image/Ellipse 1.png" alt="Image logo" class="img" />
+        <img src="../assets/image/favicon.logo.png" alt="Image logo" class="img" />
       </router-link>
       <!-- <b>Home</b> -->
       <router-link to="/">
