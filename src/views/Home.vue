@@ -1,6 +1,8 @@
 <template>
   <div class="home">
+   
     <div id="wrapper">
+       
       <h1>
         <span class="letter01">H</span>
         <span class="letter02">i</span>

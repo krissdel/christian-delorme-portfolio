@@ -14,8 +14,8 @@
       </h1>
     </div>
     <div class="words">
-         <kinesis-container>
-      <kinesis-element :strength="30">
+         <!-- <kinesis-container>
+      <kinesis-element :strength="30"> -->
       <wordcloud
       :data="defaultWords"
       nameKey="name"
@@ -24,8 +24,8 @@
       :showTooltip="false"
       :wordClick="wordClickHandler">
       </wordcloud>
-</kinesis-element>
-    </kinesis-container>
+<!-- </kinesis-element>
+    </kinesis-container> -->
 
      
     </div>
@@ -160,6 +160,9 @@ export default {
 
 
 <style scoped>
+body {
+  overflow: hidden;
+}
 .words {
     padding-left: 75px;
 }

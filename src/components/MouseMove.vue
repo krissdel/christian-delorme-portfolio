@@ -17,8 +17,8 @@ document.onmousemove = animatedCircles;
             circle.setAttribute('class', 'circle');
             document.body.appendChild(circle);
 
-            circle.style.left = event.clientX + 'px';
-            circle.style.top = event.clientY + 'px';
+            circle.style.left = event.pageX + 'px';
+            circle.style.top = event.pageY + 'px';
 
             let color = colors[Math.floor(Math.random() * colors.length)];
             circle.style.borderColor = color;
@@ -32,9 +32,10 @@ document.onmousemove = animatedCircles;
             circle.style.height = '50px';
             circle.style.borderWidth = '5px';
             circle.style.opacity = 0;
+            circle.style.zIndex = -1;
         }
   export default {
-      name: "mousemove",
+      name: "MouseMove",
   }
   
 </script>
