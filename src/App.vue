@@ -36,5 +36,6 @@ export default {
 body {
   background-color: #060b0e;
   font-weight: bold;
+  overflow-x: hidden ;
 }
 </style>
