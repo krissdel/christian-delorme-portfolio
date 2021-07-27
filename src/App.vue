@@ -1,8 +1,9 @@
 <template>
   <div id="app">
+    <Mousemove />
     <Sound />
     <NavBar />
-    <Mousemove />
+    
     <router-view />
   </div>
 </template>
@@ -16,9 +17,9 @@ export default {
   name: "App",
 
   components: {
+    Mousemove,
     NavBar,
-    Sound,
-    Mousemove
+    Sound
   },
 };
 </script>
