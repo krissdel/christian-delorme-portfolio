@@ -196,7 +196,7 @@
 
 <script>
 export default {
-  name: "projects",
+  name: "Projects",
   components: {},
 };
 </script>

@@ -50,7 +50,12 @@
     />
   </head>
 
-  <body>
+  <body
+    onselectstart="return false"
+    oncontextmenu="return false"
+    ondragstart="return false"
+    onMouseOver="window.status='..please do not use .. '; return true;"
+  >
     <main>
       <div id="app"></div>
     </main>
