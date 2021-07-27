@@ -2,7 +2,7 @@
   <div class="wrapper">
     <div class="box">
       <div class="inner-box">
-        <div class="circle" :style="styles" />
+        <div class="circle" />
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ document.onmousemove = animatedCircles;
             circle.style.zIndex = -1;
         }
   export default {
-      name: "MouseMove",
+      name: "Mousemove",
   }
   
 </script>

@@ -2,7 +2,7 @@
   <div id="app">
     <Sound />
     <NavBar />
-    <MouseMove />
+    <Mousemove />
     <router-view />
   </div>
 </template>
@@ -10,7 +10,7 @@
 <script>
 import NavBar from "./components/NavBar.vue";
 import Sound from "./components/Sound.vue";
-import MouseMove from "@/components/MouseMove.vue";
+import Mousemove from "./components/Mousemove.vue";
 
 export default {
   name: "App",
@@ -18,7 +18,7 @@ export default {
   components: {
     NavBar,
     Sound,
-    MouseMove
+    Mousemove
   },
 };
 </script>

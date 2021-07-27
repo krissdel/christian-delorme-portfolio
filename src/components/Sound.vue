@@ -19,6 +19,12 @@
 export default {
   name: "Sound",
   data() {
+//     const note = document.querySelector(".btn");
+// note.addEventListener("click", () => {
+//   note.style.background = "red";
+// });
+
+
     return {
       audios: [
         {
@@ -29,6 +35,8 @@ export default {
     };
   },
   methods: {
+            
+
     play(audio) {
       audio.isPlaying = true;
       audio.file.play();
@@ -37,8 +45,10 @@ export default {
     pause(audio) {
       audio.isPlaying = false;
       audio.file.pause();
-        audio.file.currentTime = 0;
+      audio.file.currentTime = 0;
     },
+
+
   },
 };
 </script>
@@ -47,7 +57,6 @@ export default {
 /* -----[button sound]--------------- */
 .sound {
     padding-left: 80px;
-
 }
 .btn {
   font-family: "Libre Baskerville", serif;
@@ -62,4 +71,5 @@ export default {
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
+
 </style>
