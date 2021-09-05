@@ -1,8 +1,6 @@
 <template>
   <div class="home">
-   
     <div id="wrapper">
-       
       <h1>
         <span class="letter01">H</span>
         <span class="letter02">i</span>
@@ -50,20 +48,15 @@
     </div>
     <div class="tags">
       <span class="tags1"> 𓀾 𓀿 𓁀 𓁁 𓁂 𓁃 𓁄 𓁅 </span>
-    </div>   
+    </div>
   </div>
 </template>
 
 <script>
-
 export default {
   name: "home",
-  components: { 
-  },
-  props: {},
 };
 </script>
-
 
 <style scoped>
 .home {
@@ -222,7 +215,4 @@ img {
   display: flex;
   color: #515152;
 }
-
 </style>
-
-
